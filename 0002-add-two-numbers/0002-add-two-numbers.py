@@ -35,15 +35,4 @@ class Solution:
             currentList1 = currentList1.next
             if (currentList2 is not None):
                 currentList2 = currentList2.next
-        '''
-        current = l1
-        while current is not None:
-            if (current.val >= 10):
-                current.val -= 10
-                if (current.next is None):
-                    current.next = ListNode(1)
-                else:
-                    current.next.val += 1
-            current = current.next
-        '''
         return l1
