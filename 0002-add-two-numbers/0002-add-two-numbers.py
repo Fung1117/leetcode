@@ -17,11 +17,25 @@ class Solution:
         
         currentList1 = l1
         currentList2 = l2
-        while (currentList2 is not None):
-            value = currentList1.val + currentList2.val
+        while (currentList1 is not None):
+            
+            if (currentList2 is not None):
+                value = currentList1.val + currentList2.val
+            else:
+                value = currentList1.val
+            
+            if (value >= 10):
+                value -= 10
+                if (currentList1.next is None):
+                    currentList1.next = ListNode(1)
+                else:
+                    currentList1.next.val += 1
             currentList1.val = value
+
             currentList1 = currentList1.next
-            currentList2 = currentList2.next
+            if (currentList2 is not None):
+                currentList2 = currentList2.next
+        '''
         current = l1
         while current is not None:
             if (current.val >= 10):
@@ -31,4 +45,5 @@ class Solution:
                 else:
                     current.next.val += 1
             current = current.next
+        '''
         return l1
