@@ -1,20 +1,13 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-
-        longestString = s[0]
-
+        palindrome = s[0]
         for i in range(len(s)):
-            subString = ""
-            position = [j for j in range(i+1, len(s)) if s[j] == s[i]]
-            if (len(position) == 0):
-                continue
+            longest_string = str()
+            position = [j for j in range(len(s)) if s[i] == s[j]]
             for j in position:
-                tempString = s[i:j + 1]
-                if (tempString != tempString[::-1]):
-                    tempString = ""
-                if (tempString != ""):
-                    subString = tempString
-            if (len(subString) > len(longestString)):
-                longestString = subString 
-        
-        return longestString
+                tmp = s[i : j + 1]
+                if (tmp == tmp[::-1]):
+                    longest_string = tmp
+            if (longest_string is not None and len(longest_string) > len(palindrome)):
+                palindrome = longest_string
+        return palindrome
