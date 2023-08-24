@@ -3,7 +3,10 @@ class Solution:
         palindrome = s[0]
         for i in range(len(s)):
             longest_string = str()
+
             position = [j for j in range(len(s)) if s[i] == s[j]]
+            
+            
             for j in position:
                 tmp = s[i : j + 1]
                 if (len(tmp) <= len(palindrome)):
