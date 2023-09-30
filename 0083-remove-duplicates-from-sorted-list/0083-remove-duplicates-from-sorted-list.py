@@ -9,8 +9,7 @@ class Solution:
         while (current is not None):
             if (current.next is None):
                 break
-            if (current.val == current.next.val):
+            while (current.next is not None and current.val == current.next.val):
                 current.next = current.next.next
-                continue
             current = current.next
         return head
