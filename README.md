@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Fung1117/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Fung1117/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Fung1117/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Fung1117/leetcode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
