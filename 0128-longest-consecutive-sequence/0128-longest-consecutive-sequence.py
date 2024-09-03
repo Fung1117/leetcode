@@ -3,9 +3,7 @@ class Solution:
         nums = set(nums)
         maxLength = 0
         for i in nums:
-            if i - 1 in nums:
-                continue
-            else:
+            if i - 1 not in nums:
                 count = 1
                 while i + 1 in nums:
                     i += 1
