@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Fung1117/leetcode/tree/master/0155-min-stack) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -83,4 +85,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## String
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
