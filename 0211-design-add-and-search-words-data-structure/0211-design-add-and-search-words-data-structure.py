@@ -1,7 +1,7 @@
 class TireNode:
 
     def __init__(self):
-        self.childen = [None] * 26
+        self.childen = {}
         self.endOfWord = False
 
 class WordDictionary:
@@ -14,7 +14,7 @@ class WordDictionary:
         current = self.root
         for char in word:
             index = ord(char) - ord('a')
-            if current.childen[index] == None:
+            if index not in current.childen:
                 current.childen[index] = TireNode()
             current = current.childen[index]
         current.endOfWord = True
@@ -27,12 +27,11 @@ class WordDictionary:
                 current = stack.pop()
                 if char != '.':
                     index = ord(char) - ord('a')
-                    if current.childen[index]:
+                    if index in current.childen and current.childen[index]:
                         nextStack.append(current.childen[index])
                 else:
                     for child in current.childen:
-                        if child:
-                            nextStack.append(child)
+                        nextStack.append(current.childen[child])
             stack = nextStack
         return any(i.endOfWord for i in stack)
 
