@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Fung1117/leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Fung1117/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
@@ -89,8 +91,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
