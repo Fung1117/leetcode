@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Fung1117/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Fung1117/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -100,8 +101,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Fung1117/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Fung1117/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
