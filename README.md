@@ -71,22 +71,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Fung1117/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Fung1117/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Fung1117/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Fung1117/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Fung1117/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1484-linked-list-in-binary-tree](https://github.com/Fung1117/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## String
 |  |
