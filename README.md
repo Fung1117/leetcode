@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Trie
 |  |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
