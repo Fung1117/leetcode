@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Fung1117/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Fung1117/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Fung1117/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Fung1117/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Fung1117/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Union Find
 |  |
@@ -99,10 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Fung1117/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Fung1117/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Fung1117/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
