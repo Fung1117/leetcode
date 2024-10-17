@@ -128,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Fung1117/leetcode/tree/master/0567-permutation-in-string) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Fung1117/leetcode/tree/master/0670-maximum-swap) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/Fung1117/leetcode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->
