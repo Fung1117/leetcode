@@ -13,3 +13,4 @@ class Solution:
             else:
                 pivot_list.append(i)
         return lesser_list + pivot_list + greater_list
+            
