@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/Fung1117/leetcode/tree/master/0670-maximum-swap) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Fung1117/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Greedy
 |  |
 | ------- |
