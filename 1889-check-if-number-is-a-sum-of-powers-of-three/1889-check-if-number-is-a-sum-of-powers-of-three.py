@@ -1,4 +1,3 @@
-import math
 
 class Solution:
     def checkPowersOfThree(self, n: int) -> bool:
@@ -6,7 +5,7 @@ class Solution:
         def helper(num, i):
             if num == 0:
                 return True
-                
+
             if 3 ** i > num:
                 return False
             else:
