@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Fung1117/leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Fung1117/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Fung1117/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Fung1117/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Fung1117/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Fung1117/leetcode/tree/master/0567-permutation-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Fung1117/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
