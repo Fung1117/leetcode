@@ -4,7 +4,6 @@ class Solution:
         lt_pt = 0
         rt_pt = k
         while rt_pt < len(blocks):
-            # move the window
             if blocks[lt_pt] == 'W' and operation > 0:
                 operation -= 1
             if blocks[rt_pt] == 'W':
